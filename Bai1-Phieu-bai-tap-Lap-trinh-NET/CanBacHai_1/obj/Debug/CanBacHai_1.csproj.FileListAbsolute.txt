@@ -1,0 +1,7 @@
+E:\c#\Bai1_TrenLop\CanBacHai_1\bin\Debug\CanBacHai_1.exe.config
+E:\c#\Bai1_TrenLop\CanBacHai_1\bin\Debug\CanBacHai_1.exe
+E:\c#\Bai1_TrenLop\CanBacHai_1\bin\Debug\CanBacHai_1.pdb
+E:\c#\Bai1_TrenLop\CanBacHai_1\obj\Debug\CanBacHai_1.csproj.AssemblyReference.cache
+E:\c#\Bai1_TrenLop\CanBacHai_1\obj\Debug\CanBacHai_1.csproj.CoreCompileInputs.cache
+E:\c#\Bai1_TrenLop\CanBacHai_1\obj\Debug\CanBacHai_1.exe
+E:\c#\Bai1_TrenLop\CanBacHai_1\obj\Debug\CanBacHai_1.pdb

@@ -1,0 +1,7 @@
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai1-Phieu-bai-tap-tren-lop\bin\Debug\Bai1-Phieu-bai-tap-tren-lop.exe.config
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai1-Phieu-bai-tap-tren-lop\bin\Debug\Bai1-Phieu-bai-tap-tren-lop.exe
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai1-Phieu-bai-tap-tren-lop\bin\Debug\Bai1-Phieu-bai-tap-tren-lop.pdb
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai1-Phieu-bai-tap-tren-lop\obj\Debug\Bai1.csproj.AssemblyReference.cache
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai1-Phieu-bai-tap-tren-lop\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai1-Phieu-bai-tap-tren-lop\obj\Debug\Bai1-Phieu-bai-tap-tren-lop.exe
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai1-Phieu-bai-tap-tren-lop\obj\Debug\Bai1-Phieu-bai-tap-tren-lop.pdb

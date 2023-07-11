@@ -1,0 +1,7 @@
+E:\c#\Bai1_TrenLop\CSharpCanBan\bin\Debug\CSharpCanBan.exe.config
+E:\c#\Bai1_TrenLop\CSharpCanBan\bin\Debug\CSharpCanBan.exe
+E:\c#\Bai1_TrenLop\CSharpCanBan\bin\Debug\CSharpCanBan.pdb
+E:\c#\Bai1_TrenLop\CSharpCanBan\obj\Debug\CSharpCanBan.csproj.AssemblyReference.cache
+E:\c#\Bai1_TrenLop\CSharpCanBan\obj\Debug\CSharpCanBan.csproj.CoreCompileInputs.cache
+E:\c#\Bai1_TrenLop\CSharpCanBan\obj\Debug\CSharpCanBan.exe
+E:\c#\Bai1_TrenLop\CSharpCanBan\obj\Debug\CSharpCanBan.pdb

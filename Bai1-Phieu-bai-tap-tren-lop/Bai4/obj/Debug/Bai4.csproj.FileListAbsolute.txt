@@ -1,0 +1,6 @@
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai4\bin\Debug\Bai4.exe.config
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai4\bin\Debug\Bai4.exe
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai4\bin\Debug\Bai4.pdb
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai4\obj\Debug\Bai4.exe
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai4\obj\Debug\Bai4.pdb

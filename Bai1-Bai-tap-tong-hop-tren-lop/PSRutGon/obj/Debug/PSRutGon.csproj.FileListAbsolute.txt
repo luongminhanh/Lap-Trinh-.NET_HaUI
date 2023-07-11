@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Bai1-Bai-tap-tong-hop-tren-lop\PSRutGon\obj\Debug\PSRutGon.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Bai1-Bai-tap-tong-hop-tren-lop\PSRutGon\obj\Debug\PSRutGon.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bai1-Bai-tap-tong-hop-tren-lop\PSRutGon\bin\Debug\PSRutGon.exe.config
+C:\Users\ACER\source\repos\Bai1-Bai-tap-tong-hop-tren-lop\PSRutGon\bin\Debug\PSRutGon.exe
+C:\Users\ACER\source\repos\Bai1-Bai-tap-tong-hop-tren-lop\PSRutGon\bin\Debug\PSRutGon.pdb
+C:\Users\ACER\source\repos\Bai1-Bai-tap-tong-hop-tren-lop\PSRutGon\obj\Debug\PSRutGon.exe
+C:\Users\ACER\source\repos\Bai1-Bai-tap-tong-hop-tren-lop\PSRutGon\obj\Debug\PSRutGon.pdb

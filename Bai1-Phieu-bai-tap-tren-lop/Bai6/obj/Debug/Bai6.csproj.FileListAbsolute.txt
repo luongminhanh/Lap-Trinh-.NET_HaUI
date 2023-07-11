@@ -1,0 +1,7 @@
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai6\bin\Debug\Bai6.exe.config
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai6\bin\Debug\Bai6.exe
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai6\bin\Debug\Bai6.pdb
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai6\obj\Debug\Bai6.exe
+E:\c#\Bai1-Phieu-bai-tap-tren-lop\Bai6\obj\Debug\Bai6.pdb

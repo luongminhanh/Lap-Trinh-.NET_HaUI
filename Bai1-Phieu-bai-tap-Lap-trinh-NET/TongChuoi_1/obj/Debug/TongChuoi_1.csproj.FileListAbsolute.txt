@@ -1,0 +1,7 @@
+E:\c#\Bai1_TrenLop\TongChuoi_1\bin\Debug\TongChuoi_1.exe.config
+E:\c#\Bai1_TrenLop\TongChuoi_1\bin\Debug\TongChuoi_1.exe
+E:\c#\Bai1_TrenLop\TongChuoi_1\bin\Debug\TongChuoi_1.pdb
+E:\c#\Bai1_TrenLop\TongChuoi_1\obj\Debug\TongChuoi_1.csproj.AssemblyReference.cache
+E:\c#\Bai1_TrenLop\TongChuoi_1\obj\Debug\TongChuoi_1.csproj.CoreCompileInputs.cache
+E:\c#\Bai1_TrenLop\TongChuoi_1\obj\Debug\TongChuoi_1.exe
+E:\c#\Bai1_TrenLop\TongChuoi_1\obj\Debug\TongChuoi_1.pdb

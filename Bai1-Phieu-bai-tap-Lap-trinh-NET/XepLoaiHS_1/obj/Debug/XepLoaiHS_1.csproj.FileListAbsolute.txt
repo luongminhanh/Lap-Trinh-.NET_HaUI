@@ -1,0 +1,6 @@
+E:\c#\Bai1_TrenLop\XepLoaiHS_1\bin\Debug\XepLoaiHS_1.exe.config
+E:\c#\Bai1_TrenLop\XepLoaiHS_1\bin\Debug\XepLoaiHS_1.exe
+E:\c#\Bai1_TrenLop\XepLoaiHS_1\bin\Debug\XepLoaiHS_1.pdb
+E:\c#\Bai1_TrenLop\XepLoaiHS_1\obj\Debug\XepLoaiHS_1.csproj.CoreCompileInputs.cache
+E:\c#\Bai1_TrenLop\XepLoaiHS_1\obj\Debug\XepLoaiHS_1.exe
+E:\c#\Bai1_TrenLop\XepLoaiHS_1\obj\Debug\XepLoaiHS_1.pdb
