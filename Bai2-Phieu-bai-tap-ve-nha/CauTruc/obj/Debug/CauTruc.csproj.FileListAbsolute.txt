@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\CauTruc\obj\Debug\CauTruc.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\CauTruc\obj\Debug\CauTruc.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\CauTruc\bin\Debug\CauTruc.exe.config
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\CauTruc\bin\Debug\CauTruc.exe
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\CauTruc\bin\Debug\CauTruc.pdb
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\CauTruc\obj\Debug\CauTruc.exe
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\CauTruc\obj\Debug\CauTruc.pdb

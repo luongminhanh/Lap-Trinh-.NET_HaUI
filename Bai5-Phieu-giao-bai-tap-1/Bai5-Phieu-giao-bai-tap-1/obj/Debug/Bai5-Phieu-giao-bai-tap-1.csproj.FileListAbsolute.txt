@@ -1,0 +1,7 @@
+E:\c#\Bai5-Phieu-giao-bai-tap-1\Bai5-Phieu-giao-bai-tap-1\bin\Debug\Bai5-Phieu-giao-bai-tap-1.exe.config
+E:\c#\Bai5-Phieu-giao-bai-tap-1\Bai5-Phieu-giao-bai-tap-1\bin\Debug\Bai5-Phieu-giao-bai-tap-1.exe
+E:\c#\Bai5-Phieu-giao-bai-tap-1\Bai5-Phieu-giao-bai-tap-1\bin\Debug\Bai5-Phieu-giao-bai-tap-1.pdb
+E:\c#\Bai5-Phieu-giao-bai-tap-1\Bai5-Phieu-giao-bai-tap-1\obj\Debug\Bai5-Phieu-giao-bai-tap-1.csproj.AssemblyReference.cache
+E:\c#\Bai5-Phieu-giao-bai-tap-1\Bai5-Phieu-giao-bai-tap-1\obj\Debug\Bai5-Phieu-giao-bai-tap-1.csproj.CoreCompileInputs.cache
+E:\c#\Bai5-Phieu-giao-bai-tap-1\Bai5-Phieu-giao-bai-tap-1\obj\Debug\Bai5-Phieu-giao-bai-tap-1.exe
+E:\c#\Bai5-Phieu-giao-bai-tap-1\Bai5-Phieu-giao-bai-tap-1\obj\Debug\Bai5-Phieu-giao-bai-tap-1.pdb

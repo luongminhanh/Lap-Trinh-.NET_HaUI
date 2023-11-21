@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Bai3-Phieu-bai-tap-ve-nha\BaiTongHop\bin\Debug\BaiTongHop.exe.config
+C:\Users\ACER\source\repos\Bai3-Phieu-bai-tap-ve-nha\BaiTongHop\bin\Debug\BaiTongHop.exe
+C:\Users\ACER\source\repos\Bai3-Phieu-bai-tap-ve-nha\BaiTongHop\bin\Debug\BaiTongHop.pdb
+C:\Users\ACER\source\repos\Bai3-Phieu-bai-tap-ve-nha\BaiTongHop\obj\Debug\BaiTongHop.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Bai3-Phieu-bai-tap-ve-nha\BaiTongHop\obj\Debug\BaiTongHop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bai3-Phieu-bai-tap-ve-nha\BaiTongHop\obj\Debug\BaiTongHop.exe
+C:\Users\ACER\source\repos\Bai3-Phieu-bai-tap-ve-nha\BaiTongHop\obj\Debug\BaiTongHop.pdb

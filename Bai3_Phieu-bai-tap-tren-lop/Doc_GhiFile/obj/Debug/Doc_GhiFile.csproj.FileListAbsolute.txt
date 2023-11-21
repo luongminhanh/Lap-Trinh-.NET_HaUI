@@ -1,0 +1,7 @@
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\Doc_GhiFile\obj\Debug\Doc_GhiFile.csproj.AssemblyReference.cache
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\Doc_GhiFile\obj\Debug\Doc_GhiFile.csproj.CoreCompileInputs.cache
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\Doc_GhiFile\bin\Debug\Doc_GhiFile.exe.config
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\Doc_GhiFile\bin\Debug\Doc_GhiFile.exe
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\Doc_GhiFile\bin\Debug\Doc_GhiFile.pdb
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\Doc_GhiFile\obj\Debug\Doc_GhiFile.exe
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\Doc_GhiFile\obj\Debug\Doc_GhiFile.pdb

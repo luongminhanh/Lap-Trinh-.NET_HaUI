@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\PhuongThuc\obj\Debug\PhuongThuc.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\PhuongThuc\obj\Debug\PhuongThuc.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\PhuongThuc\bin\Debug\PhuongThuc.exe.config
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\PhuongThuc\bin\Debug\PhuongThuc.exe
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\PhuongThuc\bin\Debug\PhuongThuc.pdb
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\PhuongThuc\obj\Debug\PhuongThuc.exe
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\PhuongThuc\obj\Debug\PhuongThuc.pdb

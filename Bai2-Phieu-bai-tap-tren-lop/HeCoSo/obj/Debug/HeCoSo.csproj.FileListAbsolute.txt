@@ -1,0 +1,7 @@
+E:\Bai2_TrenLop\HeCoSo\bin\Debug\HeCoSo.exe.config
+E:\Bai2_TrenLop\HeCoSo\bin\Debug\HeCoSo.exe
+E:\Bai2_TrenLop\HeCoSo\bin\Debug\HeCoSo.pdb
+E:\Bai2_TrenLop\HeCoSo\obj\Debug\HeCoSo.csproj.AssemblyReference.cache
+E:\Bai2_TrenLop\HeCoSo\obj\Debug\HeCoSo.csproj.CoreCompileInputs.cache
+E:\Bai2_TrenLop\HeCoSo\obj\Debug\HeCoSo.exe
+E:\Bai2_TrenLop\HeCoSo\obj\Debug\HeCoSo.pdb

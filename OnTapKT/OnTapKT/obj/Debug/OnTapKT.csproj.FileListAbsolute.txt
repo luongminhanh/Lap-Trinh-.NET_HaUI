@@ -1,0 +1,7 @@
+E:\c#\OnTapKT\OnTapKT\bin\Debug\OnTapKT.exe.config
+E:\c#\OnTapKT\OnTapKT\bin\Debug\OnTapKT.exe
+E:\c#\OnTapKT\OnTapKT\bin\Debug\OnTapKT.pdb
+E:\c#\OnTapKT\OnTapKT\obj\Debug\OnTapKT.csproj.AssemblyReference.cache
+E:\c#\OnTapKT\OnTapKT\obj\Debug\OnTapKT.csproj.CoreCompileInputs.cache
+E:\c#\OnTapKT\OnTapKT\obj\Debug\OnTapKT.exe
+E:\c#\OnTapKT\OnTapKT\obj\Debug\OnTapKT.pdb

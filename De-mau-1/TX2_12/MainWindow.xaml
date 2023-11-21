@@ -1,0 +1,63 @@
+﻿<Window x:Class="TX2_12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TX2_12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Label" HorizontalAlignment="Left" Height="31" Margin="26,56,0,0" VerticalAlignment="Top" Width="45"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="31" Margin="26,92,0,0" VerticalAlignment="Top" Width="45"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="31" Margin="26,142,0,0" VerticalAlignment="Top" Width="45" RenderTransformOrigin="0.556,4.008"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="31" Margin="26,178,0,0" VerticalAlignment="Top" Width="45"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="31" Margin="26,214,0,0" VerticalAlignment="Top" Width="45"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="31" Margin="26,250,0,0" VerticalAlignment="Top" Width="45"/>
+        <Menu Margin="0,10,0,383">
+            <MenuItem Header="Hệ thống">
+                <MenuItem Header="Thoát"/>
+            </MenuItem>
+            <MenuItem Header="Quản lý nhân viên">
+                <MenuItem Header="Thêm" Click="MenuItem_Click"/>
+                <MenuItem Header="Xóa"/>
+                <MenuItem Header="Hiển thị" Click="MenuItem_Click_1"/>
+            </MenuItem>
+        </Menu>
+        <ListView x:Name="listView1" Margin="0,302,0,0" SelectionChanged="listView1_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Mã NV" DisplayMemberBinding="{Binding MaNV}"/>
+                    <GridViewColumn Header="Họ Tên" Width="150" DisplayMemberBinding="{Binding HoTen}"/>
+                    <GridViewColumn Header="GT"/>
+                    <GridViewColumn Header="Ngày sinh" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding NgaySinh, StringFormat={}{0:dd-MM-yyyy}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Mã NV"/>
+                    <GridViewColumn Header="Mã NV"/>
+                    <GridViewColumn Header="Mã NV"/>
+                    <GridViewColumn Header="Mã NV"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <DataGrid x:Name="dgView1" Margin="325,72,0,204" SelectedCellsChanged="dgView1_SelectedCellsChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã NV" Binding="{Binding MaNV}"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}"/>
+                <DataGridTextColumn Header="GT" Binding="{Binding GioiTinh}"/>
+                <DataGridTextColumn Header="Ngày sinh" Binding="{Binding NgaySinh, StringFormat={}{0:dd-MM-yyyy}}"/>
+                <DataGridTextColumn Header="Mã NV"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DatePicker x:Name="dtpDate" HorizontalAlignment="Left" Height="32" Margin="76,163,0,0" VerticalAlignment="Top" Width="103" SelectedDate="1-1-2003"/>
+        <RadioButton x:Name="radNam" Content="Nam" HorizontalAlignment="Left" Height="20" Margin="76,135,0,0" VerticalAlignment="Top" Width="94"/>
+        <RadioButton x:Name="radNu" Content="Nữ" HorizontalAlignment="Left" Height="22" Margin="227,135,0,0" VerticalAlignment="Top" Width="112"/>
+        <TextBox x:Name="txtMaNV" HorizontalAlignment="Left" Height="26" Margin="76,63,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="235"/>
+        <TextBox x:Name="txtLuong" HorizontalAlignment="Left" Height="28" Margin="76,199,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="235"/>
+        <TextBox x:Name="txtNgay" HorizontalAlignment="Left" Height="29" Margin="76,230,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="235"/>
+        <TextBox x:Name="txtHoTen" HorizontalAlignment="Left" Height="28" Margin="76,95,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="235"/>
+    </Grid>
+</Window>

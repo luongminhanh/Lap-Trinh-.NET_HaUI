@@ -1,0 +1,17 @@
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\bin\Debug\ViideoBaiGiang1.exe.config
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\bin\Debug\ViideoBaiGiang1.exe
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\bin\Debug\ViideoBaiGiang1.pdb
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1.csproj.AssemblyReference.cache
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\MainWindow.g.cs
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\Window1.g.cs
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\App.g.cs
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1_MarkupCompile.cache
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1_MarkupCompile.lref
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\MainWindow.baml
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\Window1.baml
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1.g.resources
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1.Properties.Resources.resources
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1.csproj.GenerateResource.cache
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1.csproj.CoreCompileInputs.cache
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1.exe
+E:\c#\ViideoBaiGiang1\ViideoBaiGiang1\obj\Debug\ViideoBaiGiang1.pdb

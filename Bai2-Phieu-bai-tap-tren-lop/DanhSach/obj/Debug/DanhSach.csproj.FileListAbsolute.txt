@@ -1,0 +1,7 @@
+E:\Bai2_TrenLop\DanhSach\bin\Debug\DanhSach.exe.config
+E:\Bai2_TrenLop\DanhSach\bin\Debug\DanhSach.exe
+E:\Bai2_TrenLop\DanhSach\bin\Debug\DanhSach.pdb
+E:\Bai2_TrenLop\DanhSach\obj\Debug\DanhSach.csproj.CoreCompileInputs.cache
+E:\Bai2_TrenLop\DanhSach\obj\Debug\DanhSach.exe
+E:\Bai2_TrenLop\DanhSach\obj\Debug\DanhSach.pdb
+E:\Bai2_TrenLop\DanhSach\obj\Debug\DanhSach.csproj.AssemblyReference.cache

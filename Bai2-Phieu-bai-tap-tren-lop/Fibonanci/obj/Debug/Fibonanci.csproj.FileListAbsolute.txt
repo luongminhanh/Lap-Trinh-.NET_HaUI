@@ -1,0 +1,7 @@
+E:\Bai2_TrenLop\Fibonanci\bin\Debug\Fibonanci.exe.config
+E:\Bai2_TrenLop\Fibonanci\bin\Debug\Fibonanci.exe
+E:\Bai2_TrenLop\Fibonanci\bin\Debug\Fibonanci.pdb
+E:\Bai2_TrenLop\Fibonanci\obj\Debug\Fibonanci.csproj.AssemblyReference.cache
+E:\Bai2_TrenLop\Fibonanci\obj\Debug\Fibonanci.csproj.CoreCompileInputs.cache
+E:\Bai2_TrenLop\Fibonanci\obj\Debug\Fibonanci.exe
+E:\Bai2_TrenLop\Fibonanci\obj\Debug\Fibonanci.pdb

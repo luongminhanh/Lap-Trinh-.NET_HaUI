@@ -1,0 +1,584 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.menu-container {
+    width: 100vw;   
+    display: flex;
+    justify-content: center;
+    z-index: 9;
+}
+.menu-container-fixed{
+    position: fixed;
+    box-shadow: 0 10px 15px rgba(25, 25, 25, 0.05);
+    animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
+    z-index: 99;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1200px;
+    height: 5rem;
+}
+
+h1 {
+    color: #F05220;
+    font-weight: 700;
+    font-size: 3.5rem;
+    cursor: pointer;
+}
+
+ul {
+    display: flex;
+    gap: 2rem;
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+ul li {
+    cursor: pointer;
+}
+
+ul li:hover {
+    color: #F05220;
+    transition: all 0.3s ease;
+}
+
+.menu-icon-contact {
+    display: none;
+    font-size: 1.3rem;
+    gap: 1rem;
+    font-weight: 500;
+}
+
+.menu-icon-contact i, .menu-icon-menu {
+    cursor: pointer;
+}
+
+.menu-icon-contact i:hover {
+    color:#F05220;
+}
+
+.menu-icon-menu {
+    display: none;
+    width: 2rem;
+    height: 2rem;
+    font-weight: 500;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.signup {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: white;
+    border: 0.1rem solid rgb(201, 198, 198);
+    border-radius: 30px;
+    font-weight: 500;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 0.5rem 3rem;
+}
+.signup:hover {
+    color: white;
+}
+
+.mobile__menu {
+	display: none;
+    position: absolute;
+    background-color: white;
+    width: 310px;
+    height: 200vh;
+    z-index: 100;
+    right: 0;
+    box-shadow: 0 10px 15px rgba(25, 25, 25, 0.05);
+}
+
+.mobile__menu .menu-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.mobile__menu .menu-title i {
+    font-size: 30px;  
+    color: rgb(118, 113, 113);
+}
+
+.mobile__menu .menu-title h1 {
+    font-size: 40px;  
+}
+
+.mobile__menu-backdrop {
+    opacity: 0.6;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 90;
+}
+
+.mobile_menu-content{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.mobile_menu-content > ul {
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    gap: 0;
+    border-bottom: 0.5px solid rgb(198, 193, 193);
+}
+
+.mobile_menu-content > ul li {
+    border-top: 0.5px solid rgb(198, 193, 193);
+    width: 100%;
+    padding: 15px 20px;
+}
+
+.mobile_menu-contact {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.mobile_menu-contact i {
+    padding: 10px;
+    border: 0.5px solid rgb(195, 186, 186);
+}
+
+.mobile__menu .menu-btn {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.mobile__menu .menu-btn .rocket-button {
+    font-size: 18px !important;
+    padding: 9px 28px 15px 28px;
+    
+}
+.mobile__menu .menu-btn .rocket-button:hover {
+    color: white;
+}
+
+@media screen and (max-width: 1181px) {
+    .menu {
+        width: 934px;
+        
+    }
+    .menu .menu-btn > button {
+        display: none;
+    }
+
+    .menu-icon-contact {
+        display: flex;
+    }
+}
+@media screen and (max-width: 991px) {
+    .menu {
+        width: 695px;
+    }
+    .menu-main > ul {
+        display: none;
+    }
+    .menu-icon-contact {
+        display: flex;
+        margin-left: 20rem;
+        font-size: 2rem;
+    }
+    .menu-icon-menu{
+        display: block;
+    }
+}
+@media screen and (max-width: 769px) {
+    .menu {
+        width: 515px;
+    }
+    .menu-icon-contact {
+        display: flex;
+        margin-left: 10rem;
+        font-size: 2rem;
+    }
+}
+
+@keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(-20px);
+        -ms-transform: translateY(-20px);
+        transform: translateY(-20px);
+    }
+    
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0);
+        -ms-transform: translateY(0);
+        transform: translateY(0);
+    }
+}
+
+.rocket-button {
+	--background: #262730;
+	--text: #fff;
+	--check: #5c86ff;
+	--blue: #5c86ff;
+	--blue-transparent: rgba(92, 134, 255, 0);
+	--dot: #fe5151;
+	--dot-shadow: rgba(254, 81, 81, 0.3);
+	--smoke: rgba(247, 248, 255, 0.9);
+	--rocket: #eef0fd;
+	--rocket-shadow-left: #fff;
+	--rocket-shadow-right: #d3d4ec;
+	--rocket-wing-right: #c2c3d9;
+	--rocket-wing-left: #d3d4ec;
+	--rocket-window: #275efe;
+	--rocket-window-shadow: #c2c3d9;
+	--rocket-line: #9ea0be;
+	font-size: 20px;
+	font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	line-height: 19px;
+	padding: 14px 50px;
+	display: table;
+	position: relative;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	text-decoration: none;
+	color: var(--background);
+}
+.rocket-button:before {
+	content: "";
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 25px;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	transition: transform 0.2s ease;
+	transform: scale(var(--s, 1)) translateZ(0);
+	position: absolute;	
+}
+
+.rocket-button:hover {
+	color: white;
+}
+
+button:hover {
+    background: orangered;
+    transition: all 0.5s ease;    
+}
+.rocket-button .default, .rocket-button .success, .rocket-button .animation {
+	z-index: 1;
+}
+.rocket-button .default span, .rocket-button .success span {
+	display: block;
+	transition: transform 0.2s ease, opacity 0.2s ease;
+	transform: translateX(var(--x, 0));
+	opacity: var(--o, 1);
+	filter: blur(var(--b, 0px));
+}
+.rocket-button .default {
+	position: relative;
+	display: flex;
+}
+
+.rocket-button .success {
+	opacity: var(--o, 0);
+	position: absolute;
+	display: flex;
+	top: 14px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.rocket-button .success svg {
+	width: 13px;
+	height: 11px;
+	stroke-width: 2;
+	stroke-dasharray: 20px;
+	stroke-dashoffset: var(--o, 20px);
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	fill: none;
+	display: block;
+	color: var(--check);
+	margin: 4px 8px 0 0;
+}
+.rocket-button .success>div {
+	display: flex;
+}
+.rocket-button .success>div span {
+	--o: 0;
+	--x: 8px;
+	--b: 2px;
+}
+.rocket-button .animation {
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 120px;
+	pointer-events: none;
+	overflow: hidden;
+	position: absolute;
+}
+.rocket-button .animation .smoke {
+	left: 50%;
+	top: 100%;
+	position: absolute;
+}
+.rocket-button .animation .smoke i {
+	opacity: 0;
+	transform: scale(0.7);
+	border-radius: 50%;
+	position: absolute;
+	bottom: var(--b, -20px);
+	left: var(--l, -12px);
+	width: var(--s, 32px);
+	height: var(--s, 32px);
+	background: var(--smoke);
+}
+.rocket-button .animation .smoke i:nth-child(2) {
+	--s: 20px;
+	--l: -24px;
+	--b: -10px;
+	--d: 50ms;
+}
+.rocket-button .animation .smoke i:nth-child(3) {
+	--s: 22px;
+	--l: 0;
+	--b: -12px;
+	--d: 20ms;
+}
+.rocket-button .animation .smoke i:nth-child(4) {
+	--s: 12px;
+	--l: 16px;
+	--b: -6px;
+	--d: 120ms;
+}
+.rocket-button .animation .smoke i:nth-child(5) {
+	--s: 24px;
+	--l: -20px;
+	--b: -14px;
+	--d: 80ms;
+}
+.rocket-button .animation .smoke i:nth-child(6) {
+	--s: 12px;
+	--l: -28px;
+	--b: -8px;
+	--d: 60ms;
+}
+.rocket-button .animation .rocket {
+	position: absolute;
+	left: 50%;
+	top: 100%;
+	z-index: 1;
+	margin: 0 0 0 -12px;
+}
+.rocket-button .animation .rocket:before {
+	content: "";
+	margin-left: -3px;
+	left: 50%;
+	top: 32px;
+	position: absolute;
+	width: 6px;
+	border-radius: 2px;
+	height: 32px;
+	transform-origin: 50% 0;
+	transform: scaleY(0.5);
+	background: linear-gradient(var(--blue), var(--blue-transparent));
+}
+.rocket-button .animation .rocket svg {
+	width: 24px;
+	height: 36px;
+	display: block;
+}
+.rocket-button:active {
+	--s: .95;
+}
+.rocket-button.live:before {
+	-webkit-animation: shake 1.5s ease 0.6s;
+	animation: shake 1.5s ease 0.6s;
+}
+.rocket-button.live .default:before {
+	--o: 0;
+}
+.rocket-button.live .default span {
+	--o: 0;
+	--x: 8px;
+	--b: 2px;
+	transition: transform 0.3s ease var(--d), opacity 0.3s ease var(--d), filter 0.3s ease var(--d);
+}
+.rocket-button.live .success {
+	--o: 1;
+}
+.rocket-button.live .success span {
+	--o: 1;
+	--x: 0;
+	--b: 0;
+	transition: transform 0.3s ease calc(var(--d) + 2200ms), opacity 0.3s ease calc(var(--d) + 2200ms), filter 0.3s ease calc(var(--d) + 2200ms);
+}
+.rocket-button.live .success svg {
+	--o: 0;
+	transition: stroke-dashoffset 0.3s ease 2.25s;
+}
+.rocket-button.live .animation .rocket {
+	-webkit-animation: rocket 2s ease forwards 0.4s;
+	animation: rocket 2s ease forwards 0.4s;
+}
+.rocket-button.live .animation .rocket:before {
+	-webkit-animation: rocket-light 2s ease forwards 0.4s;
+	animation: rocket-light 2s ease forwards 0.4s;
+}
+.rocket-button.live .animation .smoke i {
+	-webkit-animation: var(--n, smoke) 1.7s ease forwards calc(var(--d) + 600ms);
+	animation: var(--n, smoke) 1.7s ease forwards calc(var(--d) + 600ms);
+}
+.rocket-button.live .animation .smoke i:nth-child(3), .rocket-button.live .animation .smoke i:nth-child(6) {
+	--n: smoke-alt;
+}
+@-webkit-keyframes pulse {
+	50% {
+		box-shadow: 0 0 0 2px var(--dot-shadow);
+	}
+}
+@keyframes pulse {
+	50% {
+		box-shadow: 0 0 0 2px var(--dot-shadow);
+	}
+}
+@-webkit-keyframes shake {
+	8%, 24%, 40%, 56%, 72%, 88% {
+		transform: translateX(-1px);
+	}
+	16%, 32%, 48%, 64%, 80%, 96% {
+		transform: translateX(1px);
+	}
+}
+@keyframes shake {
+	8%, 24%, 40%, 56%, 72%, 88% {
+		transform: translateX(-1px);
+	}
+	16%, 32%, 48%, 64%, 80%, 96% {
+		transform: translateX(1px);
+	}
+}
+@-webkit-keyframes smoke {
+	20%, 80% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	55% {
+		transform: scale(0.92);
+	}
+}
+@keyframes smoke {
+	20%, 80% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	55% {
+		transform: scale(0.92);
+	}
+}
+@-webkit-keyframes smoke-alt {
+	20%, 80% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	60% {
+		transform: scale(1.08);
+	}
+}
+@keyframes smoke-alt {
+	20%, 80% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	60% {
+		transform: scale(1.08);
+	}
+}
+@-webkit-keyframes rocket {
+	35% {
+		transform: translateY(-56px);
+	}
+	80% {
+		transform: translateY(-48px);
+		opacity: 1;
+	}
+	100% {
+		transform: translateY(-108px) scale(0.6);
+		opacity: 0;
+	}
+}
+@keyframes rocket {
+	35% {
+		transform: translateY(-56px);
+	}
+	80% {
+		transform: translateY(-48px);
+		opacity: 1;
+	}
+	100% {
+		transform: translateY(-108px) scale(0.6);
+		opacity: 0;
+	}
+}
+@-webkit-keyframes rocket-light {
+	35% {
+		transform: scaleY(0.6);
+	}
+	75% {
+		transform: scaleY(0.5);
+	}
+	100% {
+		transform: scaleY(1);
+	}
+}
+@keyframes rocket-light {
+	35% {
+		transform: scaleY(0.6);
+	}
+	75% {
+		transform: scaleY(0.5);
+	}
+	100% {
+		transform: scaleY(1);
+	}
+}
+html {
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+}
+* {
+	box-sizing: inherit;
+}
+*:before, *:after {
+	box-sizing: inherit;
+}
+
+body .dribbble {
+	position: fixed;
+	display: block;
+	right: 20px;
+	bottom: 20px;
+}
+body .dribbble img {
+	display: block;
+	height: 28px;
+}

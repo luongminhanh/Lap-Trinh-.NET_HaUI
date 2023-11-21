@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "deBDU6kKbHpxYvpQRF+W9ZCfNxqq24PfnevtTN926Hwu4qHBn4LCNHtXtn0tWlCf53j+PFFEGLxacNmE3yh7pw==",
+  "success": true,
+  "projectFilePath": "E:\\c#\\De-mau-1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

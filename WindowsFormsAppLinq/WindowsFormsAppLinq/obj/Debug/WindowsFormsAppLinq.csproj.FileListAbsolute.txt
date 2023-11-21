@@ -1,0 +1,10 @@
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\bin\Debug\WindowsFormsAppLinq.exe.config
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\bin\Debug\WindowsFormsAppLinq.exe
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\bin\Debug\WindowsFormsAppLinq.pdb
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\obj\Debug\WindowsFormsAppLinq.csproj.AssemblyReference.cache
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\obj\Debug\WindowsFormsAppLinq.Form1.resources
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\obj\Debug\WindowsFormsAppLinq.Properties.Resources.resources
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\obj\Debug\WindowsFormsAppLinq.csproj.GenerateResource.cache
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\obj\Debug\WindowsFormsAppLinq.csproj.CoreCompileInputs.cache
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\obj\Debug\WindowsFormsAppLinq.exe
+E:\c#\WindowsFormsAppLinq\WindowsFormsAppLinq\obj\Debug\WindowsFormsAppLinq.pdb

@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\TapTin\bin\Debug\TapTin.exe.config
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\TapTin\bin\Debug\TapTin.exe
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\TapTin\bin\Debug\TapTin.pdb
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\TapTin\obj\Debug\TapTin.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\TapTin\obj\Debug\TapTin.exe
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\TapTin\obj\Debug\TapTin.pdb

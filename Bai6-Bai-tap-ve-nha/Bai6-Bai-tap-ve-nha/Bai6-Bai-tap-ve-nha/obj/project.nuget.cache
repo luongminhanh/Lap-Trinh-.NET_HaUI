@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gO0vC6wjYNk+wBkltjf8VDBswBzfr2tZNzD/1AtRLeza7EKdO9+YNvSMjQcwo94ihTqK1aTjEOSIrpGu/J85HQ==",
+  "success": true,
+  "projectFilePath": "E:\\c#\\Bai6-Bai-tap-ve-nha\\Bai6-Bai-tap-ve-nha\\Bai6-Bai-tap-ve-nha\\Bai6-Bai-tap-ve-nha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

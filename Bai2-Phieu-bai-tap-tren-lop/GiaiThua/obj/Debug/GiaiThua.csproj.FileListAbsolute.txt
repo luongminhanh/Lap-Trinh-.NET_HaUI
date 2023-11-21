@@ -1,0 +1,7 @@
+E:\Bai2_TrenLop\GiaiThua\bin\Debug\GiaiThua.exe.config
+E:\Bai2_TrenLop\GiaiThua\bin\Debug\GiaiThua.exe
+E:\Bai2_TrenLop\GiaiThua\bin\Debug\GiaiThua.pdb
+E:\Bai2_TrenLop\GiaiThua\obj\Debug\GiaiThua.csproj.AssemblyReference.cache
+E:\Bai2_TrenLop\GiaiThua\obj\Debug\GiaiThua.csproj.CoreCompileInputs.cache
+E:\Bai2_TrenLop\GiaiThua\obj\Debug\GiaiThua.exe
+E:\Bai2_TrenLop\GiaiThua\obj\Debug\GiaiThua.pdb

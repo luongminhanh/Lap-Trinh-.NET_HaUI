@@ -1,0 +1,6 @@
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DoiXung\bin\Debug\DoiXung.exe.config
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DoiXung\bin\Debug\DoiXung.exe
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DoiXung\bin\Debug\DoiXung.pdb
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DoiXung\obj\Debug\Chuoi.csproj.CoreCompileInputs.cache
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DoiXung\obj\Debug\DoiXung.exe
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DoiXung\obj\Debug\DoiXung.pdb

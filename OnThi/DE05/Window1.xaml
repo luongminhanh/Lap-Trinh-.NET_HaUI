@@ -1,0 +1,38 @@
+﻿<Window x:Class="DE05.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DE05"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="dgSP" 
+            AutoGenerateColumns="False"
+            CanUserAddRows="False"
+            AlternatingRowBackground="AliceBlue"
+            HorizontalAlignment="Center" Height="170" VerticalAlignment="Center" Width="708">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Category ID" Binding="{Binding CatId}" Width="200"/>
+                <DataGridTextColumn Header="Category Name" Binding="{Binding CatName}" Width="200"/>               
+                <DataGridTextColumn Header="Amount" Binding="{Binding Amount, StringFormat=\{0:n0\}}"  Width="200">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Right"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="Foreground" Value="DarkBlue"/>
+                            <Setter Property="FontStyle" Value="Italic"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

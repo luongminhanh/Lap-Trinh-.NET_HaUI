@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai6-Bai-tap-ve-nha/1.0.0": {
+        "runtime": {
+          "Bai6-Bai-tap-ve-nha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai6-Bai-tap-ve-nha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

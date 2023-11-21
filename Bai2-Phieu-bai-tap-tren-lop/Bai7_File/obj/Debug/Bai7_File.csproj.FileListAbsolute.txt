@@ -1,0 +1,12 @@
+E:\Bai2_TrenLop\Bai7_File\bin\Debug\Bai7_File.exe.config
+E:\Bai2_TrenLop\Bai7_File\bin\Debug\Bai7_File.exe
+E:\Bai2_TrenLop\Bai7_File\bin\Debug\Bai7_File.pdb
+E:\Bai2_TrenLop\Bai7_File\obj\Debug\Bai7_File.csproj.CoreCompileInputs.cache
+E:\Bai2_TrenLop\Bai7_File\obj\Debug\Bai7_File.exe
+E:\Bai2_TrenLop\Bai7_File\obj\Debug\Bai7_File.pdb
+E:\c#\Bai2-Phieu-bai-tap-tren-lop\Bai7_File\bin\Debug\Bai7_File.exe.config
+E:\c#\Bai2-Phieu-bai-tap-tren-lop\Bai7_File\bin\Debug\Bai7_File.exe
+E:\c#\Bai2-Phieu-bai-tap-tren-lop\Bai7_File\bin\Debug\Bai7_File.pdb
+E:\c#\Bai2-Phieu-bai-tap-tren-lop\Bai7_File\obj\Debug\Bai7_File.csproj.CoreCompileInputs.cache
+E:\c#\Bai2-Phieu-bai-tap-tren-lop\Bai7_File\obj\Debug\Bai7_File.exe
+E:\c#\Bai2-Phieu-bai-tap-tren-lop\Bai7_File\obj\Debug\Bai7_File.pdb

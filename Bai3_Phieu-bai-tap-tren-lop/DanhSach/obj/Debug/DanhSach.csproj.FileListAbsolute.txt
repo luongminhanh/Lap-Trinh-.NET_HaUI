@@ -1,0 +1,7 @@
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DanhSach\bin\Debug\DanhSach.exe.config
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DanhSach\bin\Debug\DanhSach.exe
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DanhSach\bin\Debug\DanhSach.pdb
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DanhSach\obj\Debug\DanhSach.csproj.AssemblyReference.cache
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DanhSach\obj\Debug\DanhSach.csproj.CoreCompileInputs.cache
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DanhSach\obj\Debug\DanhSach.exe
+E:\c#\Bai3_Phieu-bai-tap-tren-lop\DanhSach\obj\Debug\DanhSach.pdb

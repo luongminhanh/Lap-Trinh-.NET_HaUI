@@ -1,0 +1,7 @@
+E:\c#\LuongMinhAnh_202160336_proj52\LuongMinhAnh_202160336_proj52\obj\Debug\LuongMinhAnh_202160336_proj52.csproj.AssemblyReference.cache
+E:\c#\LuongMinhAnh_202160336_proj52\LuongMinhAnh_202160336_proj52\obj\Debug\LuongMinhAnh_202160336_proj52.csproj.CoreCompileInputs.cache
+E:\c#\LuongMinhAnh_202160336_proj52\LuongMinhAnh_202160336_proj52\bin\Debug\LuongMinhAnh_202160336_proj52.exe.config
+E:\c#\LuongMinhAnh_202160336_proj52\LuongMinhAnh_202160336_proj52\bin\Debug\LuongMinhAnh_202160336_proj52.exe
+E:\c#\LuongMinhAnh_202160336_proj52\LuongMinhAnh_202160336_proj52\bin\Debug\LuongMinhAnh_202160336_proj52.pdb
+E:\c#\LuongMinhAnh_202160336_proj52\LuongMinhAnh_202160336_proj52\obj\Debug\LuongMinhAnh_202160336_proj52.exe
+E:\c#\LuongMinhAnh_202160336_proj52\LuongMinhAnh_202160336_proj52\obj\Debug\LuongMinhAnh_202160336_proj52.pdb

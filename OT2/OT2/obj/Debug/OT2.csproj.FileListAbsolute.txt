@@ -1,0 +1,7 @@
+E:\c#\OT2\OT2\bin\Debug\OT2.exe.config
+E:\c#\OT2\OT2\bin\Debug\OT2.exe
+E:\c#\OT2\OT2\bin\Debug\OT2.pdb
+E:\c#\OT2\OT2\obj\Debug\OT2.csproj.AssemblyReference.cache
+E:\c#\OT2\OT2\obj\Debug\OT2.csproj.CoreCompileInputs.cache
+E:\c#\OT2\OT2\obj\Debug\OT2.exe
+E:\c#\OT2\OT2\obj\Debug\OT2.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\Chuoi\bin\Debug\Chuoi.exe.config
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\Chuoi\bin\Debug\Chuoi.exe
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\Chuoi\bin\Debug\Chuoi.pdb
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\Chuoi\obj\Debug\Chuoi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\Chuoi\obj\Debug\Chuoi.exe
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\Chuoi\obj\Debug\Chuoi.pdb
+C:\Users\ACER\source\repos\Bai2-Phieu-bai-tap-ve-nha\Chuoi\obj\Debug\Chuoi.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\NET\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\obj\Debug\Bai6-Bai-tap-truoc-len-lop.csproj.AssemblyReference.cache
+E:\NET\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\obj\Debug\Bai6-Bai-tap-truoc-len-lop.csproj.CoreCompileInputs.cache
+E:\NET\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\bin\Debug\Bai6-Bai-tap-truoc-len-lop.exe.config
+E:\NET\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\bin\Debug\Bai6-Bai-tap-truoc-len-lop.exe
+E:\NET\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\bin\Debug\Bai6-Bai-tap-truoc-len-lop.pdb
+E:\NET\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\obj\Debug\Bai6-Bai-tap-truoc-len-lop.exe
+E:\NET\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\obj\Debug\Bai6-Bai-tap-truoc-len-lop.pdb
+E:\c#\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\bin\Debug\Bai6-Bai-tap-truoc-len-lop.exe.config
+E:\c#\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\bin\Debug\Bai6-Bai-tap-truoc-len-lop.exe
+E:\c#\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\bin\Debug\Bai6-Bai-tap-truoc-len-lop.pdb
+E:\c#\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\obj\Debug\Bai6-Bai-tap-truoc-len-lop.csproj.AssemblyReference.cache
+E:\c#\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\obj\Debug\Bai6-Bai-tap-truoc-len-lop.csproj.CoreCompileInputs.cache
+E:\c#\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\obj\Debug\Bai6-Bai-tap-truoc-len-lop.exe
+E:\c#\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\Bai6-Bai-tap-truoc-len-lop\obj\Debug\Bai6-Bai-tap-truoc-len-lop.pdb

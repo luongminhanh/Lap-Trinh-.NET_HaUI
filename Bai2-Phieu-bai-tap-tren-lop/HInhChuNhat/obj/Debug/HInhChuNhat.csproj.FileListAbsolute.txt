@@ -1,0 +1,7 @@
+E:\Bai2_TrenLop\HInhChuNhat\bin\Debug\HInhChuNhat.exe.config
+E:\Bai2_TrenLop\HInhChuNhat\bin\Debug\HInhChuNhat.exe
+E:\Bai2_TrenLop\HInhChuNhat\bin\Debug\HInhChuNhat.pdb
+E:\Bai2_TrenLop\HInhChuNhat\obj\Debug\HInhChuNhat.csproj.AssemblyReference.cache
+E:\Bai2_TrenLop\HInhChuNhat\obj\Debug\HInhChuNhat.csproj.CoreCompileInputs.cache
+E:\Bai2_TrenLop\HInhChuNhat\obj\Debug\HInhChuNhat.exe
+E:\Bai2_TrenLop\HInhChuNhat\obj\Debug\HInhChuNhat.pdb
